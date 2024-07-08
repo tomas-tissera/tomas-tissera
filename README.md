@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 <h4>
-  Perdmi mi aterior cuenta de [Github](https://github.com/TomasTissera)
+  Perdi mi aterior cuenta de [Github](https://github.com/TomasTissera)
 </h4>
 <h4>
   I lost my previous [Github](https://github.com/TomasTissera) account
